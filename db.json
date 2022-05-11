@@ -1,0 +1,349 @@
+{
+  "products": [
+    {
+      "name": "iPhone 13 Pro",
+      "category-id": 1 ,
+      "category": "اپل",
+      "brand": "اپل",
+      "price": "45000000",
+      "count": "15",
+      "description": "گوشی موبایل اپل مدل iPhone 13 Pro A2639 دو سیم‌ کارت ظرفیت 256 گیگابایت و 6 گیگابایت رم",
+      "images": "010c132c2fa86503024a0d7b3ffc42fd",
+      "thumbnail": "010c132c2fa86503024a0d7b3ffc42fd",
+      "createdAt": 1652180509236,
+      "id": 21 
+    },
+    {
+      "name": "iPhone 12",
+      "category-id": 1 ,
+      "category": "اپل",
+      "brand": "اپل",
+      "price": "29000000",
+      "count": "15",
+      "description": "گوشی موبایل اپل مدل iPhone 12 دو سیم‌ کارت ظرفیت 128 گیگابایت",
+      "images": "e6899d7a906a837ef88133bbd9d31e15",
+      "thumbnail": "e6899d7a906a837ef88133bbd9d31e15",
+      "createdAt": 1652180509247,
+      "id": 22 
+    },
+    {
+      "name": "Samsung Galaxy s22",
+      "category-id": 2 ,
+      "category": "سامسونگ",
+      "brand": "سامسونگ",
+      "price": "30000000",
+      "count": "20",
+      "description": "گوشی موبایل سامسونگ مدل Galaxy S22 Plus دو سیم کارت ظرفیت 128 گیگابایت و رم 8 گیگابایت",
+      "images": "7bc49bdb469b3ebffebc4c12ce0de2b5",
+      "thumbnail": "7bc49bdb469b3ebffebc4c12ce0de2b5",
+      "createdAt": 1652180509248,
+      "id": 3 
+    },
+    {
+      "name": "Samsung Galaxy A13",
+      "category-id": 2 ,
+      "category": "سامسونگ",
+      "brand": "سامسونگ",
+      "price": "5000000",
+      "count": "10",
+      "description": "گوشی موبایل سامسونگ مدل Galaxy A13  دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+      "images": "68eaf61e9efedcecdd276db6cc56b2e2",
+      "thumbnail": "68eaf61e9efedcecdd276db6cc56b2e2",
+      "createdAt": 1652180509253,
+      "id": 4 
+    },
+    {
+      "name": "iPhone 13 Pro",
+      "category-id": 1 ,
+      "category": "اپل",
+      "brand": "اپل",
+      "price": "45000000",
+      "count": "15",
+      "description": "گوشی موبایل اپل مدل iPhone 13 Pro A2639 دو سیم‌ کارت ظرفیت 256 گیگابایت و 6 گیگابایت رم",
+      "images": "010c132c2fa86503024a0d7b3ffc42fd",
+      "thumbnail": "010c132c2fa86503024a0d7b3ffc42fd",
+      "createdAt": 1652180509263,
+      "id": 5 
+    },
+    {
+      "name": "iPhone 12",
+      "category-id": 1 ,
+      "category": "اپل",
+      "brand": "اپل",
+      "price": "29000000",
+      "count": "15",
+      "description": "گوشی موبایل اپل مدل iPhone 12 دو سیم‌ کارت ظرفیت 128 گیگابایت",
+      "images": "e6899d7a906a837ef88133bbd9d31e15",
+      "thumbnail": "e6899d7a906a837ef88133bbd9d31e15",
+      "createdAt": 1652180509278,
+      "id": 6 
+    },
+    {
+      "name": "Samsung Galaxy s22",
+      "category-id": 2 ,
+      "category": "سامسونگ",
+      "brand": "سامسونگ",
+      "price": "30000000",
+      "count": "20",
+      "description": "گوشی موبایل سامسونگ مدل Galaxy S22 Plus دو سیم کارت ظرفیت 128 گیگابایت و رم 8 گیگابایت",
+      "images": "7bc49bdb469b3ebffebc4c12ce0de2b5",
+      "thumbnail": "7bc49bdb469b3ebffebc4c12ce0de2b5",
+      "createdAt": 1652180509270,
+      "id": 7 
+    },
+    {
+      "name": "Samsung Galaxy A13",
+      "category-id": 2 ,
+      "category": "سامسونگ",
+      "brand": "سامسونگ",
+      "price": "5000000",
+      "count": "10",
+      "description": "گوشی موبایل سامسونگ مدل Galaxy A13  دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+      "images": "68eaf61e9efedcecdd276db6cc56b2e2",
+      "thumbnail": "68eaf61e9efedcecdd276db6cc56b2e2",
+      "createdAt": 1652180509290,
+      "id": 8 
+    },
+    {
+      "name": "iPhone 13 Pro",
+      "category-id": 1 ,
+      "category": "اپل",
+      "brand": "اپل",
+      "price": "45000000",
+      "count": "15",
+      "description": "گوشی موبایل اپل مدل iPhone 13 Pro A2639 دو سیم‌ کارت ظرفیت 256 گیگابایت و 6 گیگابایت رم",
+      "images": "010c132c2fa86503024a0d7b3ffc42fd",
+      "thumbnail": "010c132c2fa86503024a0d7b3ffc42fd",
+      "createdAt": 1652180509255,
+      "id": 9 
+    },
+    {
+      "name": "iPhone 12",
+      "category-id": 1 ,
+      "category": "اپل",
+      "brand": "اپل",
+      "price": "29000000",
+      "count": "15",
+      "description": "گوشی موبایل اپل مدل iPhone 12 دو سیم‌ کارت ظرفیت 128 گیگابایت",
+      "images": "e6899d7a906a837ef88133bbd9d31e15",
+      "thumbnail": "e6899d7a906a837ef88133bbd9d31e15",
+      "createdAt": 1652180509233,
+      "id": 10 
+    },
+    {
+      "name": "Samsung Galaxy s22",
+      "category-id": 2 ,
+      "category": "سامسونگ",
+      "brand": "سامسونگ",
+      "price": "30000000",
+      "count": "20",
+      "description": "گوشی موبایل سامسونگ مدل Galaxy S22 Plus دو سیم کارت ظرفیت 128 گیگابایت و رم 8 گیگابایت",
+      "images": "7bc49bdb469b3ebffebc4c12ce0de2b5",
+      "thumbnail": "7bc49bdb469b3ebffebc4c12ce0de2b5",
+      "createdAt": 1652180509244,
+      "id": 11 
+    },
+    {
+      "name": "Samsung Galaxy A13",
+      "category-id": 2 ,
+      "category": "سامسونگ",
+      "brand": "سامسونگ",
+      "price": "5000000",
+      "count": "10",
+      "description": "گوشی موبایل سامسونگ مدل Galaxy A13  دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+      "images": "68eaf61e9efedcecdd276db6cc56b2e2",
+      "thumbnail": "68eaf61e9efedcecdd276db6cc56b2e2",
+      "createdAt": 1652180509266,
+      "id": 12 
+    },
+    {
+      "name": "iPhone 13 Pro",
+      "category-id": 1 ,
+      "category": "اپل",
+      "brand": "اپل",
+      "price": "45000000",
+      "count": "15",
+      "description": "گوشی موبایل اپل مدل iPhone 13 Pro A2639 دو سیم‌ کارت ظرفیت 256 گیگابایت و 6 گیگابایت رم",
+      "images": "010c132c2fa86503024a0d7b3ffc42fd",
+      "thumbnail": "010c132c2fa86503024a0d7b3ffc42fd",
+      "createdAt": 1652180509250,
+      "id": 13 
+    },
+    {
+      "name": "iPhone 12",
+      "category-id": 1 ,
+      "category": "اپل",
+      "brand": "اپل",
+      "price": "29000000",
+      "count": "15",
+      "description": "گوشی موبایل اپل مدل iPhone 12 دو سیم‌ کارت ظرفیت 128 گیگابایت",
+      "images": "e6899d7a906a837ef88133bbd9d31e15",
+      "thumbnail": "e6899d7a906a837ef88133bbd9d31e15",
+      "createdAt": 1652180509288,
+      "id": 14
+    },
+    {
+      "name": "Samsung Galaxy s22",
+      "category-id": 2 ,
+      "category": "سامسونگ",
+      "brand": "سامسونگ",
+      "price": "30000000",
+      "count": "20",
+      "description": "گوشی موبایل سامسونگ مدل Galaxy S22 Plus دو سیم کارت ظرفیت 128 گیگابایت و رم 8 گیگابایت",
+      "images": "7bc49bdb469b3ebffebc4c12ce0de2b5",
+      "thumbnail": "7bc49bdb469b3ebffebc4c12ce0de2b5",
+      "createdAt": 1652180509281,
+      "id": 15 
+    },
+    {
+      "name": "Samsung Galaxy A13",
+      "category-id": 2 ,
+      "category": "سامسونگ",
+      "brand": "سامسونگ",
+      "price": "5000000",
+      "count": "10",
+      "description": "گوشی موبایل سامسونگ مدل Galaxy A13  دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+      "images": "68eaf61e9efedcecdd276db6cc56b2e2",
+      "thumbnail": "68eaf61e9efedcecdd276db6cc56b2e2",
+      "createdAt": 1652180509222,
+      "id": 16 
+    },
+    {
+      "name": "iPhone 13 Pro",
+      "category-id": 1 ,
+      "category": "اپل",
+      "brand": "اپل",
+      "price": "45000000",
+      "count": "15",
+      "description": "گوشی موبایل اپل مدل iPhone 13 Pro A2639 دو سیم‌ کارت ظرفیت 256 گیگابایت و 6 گیگابایت رم",
+      "images": "010c132c2fa86503024a0d7b3ffc42fd",
+      "thumbnail": "010c132c2fa86503024a0d7b3ffc42fd",
+      "createdAt": 1652180509444,
+      "id": 17 
+    },
+    {
+      "name": "iPhone 12",
+      "category-id": 1 ,
+      "category": "اپل",
+      "brand": "اپل",
+      "price": "29000000",
+      "count": "15",
+      "description": "گوشی موبایل اپل مدل iPhone 12 دو سیم‌ کارت ظرفیت 128 گیگابایت",
+      "images": "e6899d7a906a837ef88133bbd9d31e15",
+      "thumbnail": "e6899d7a906a837ef88133bbd9d31e15",
+      "createdAt": 1652180509666,
+      "id": 18 
+    },
+    {
+      "name": "Samsung Galaxy s22",
+      "category-id": 2 ,
+      "category": "سامسونگ",
+      "brand": "سامسونگ",
+      "price": "30000000",
+      "count": "20",
+      "description": "گوشی موبایل سامسونگ مدل Galaxy S22 Plus دو سیم کارت ظرفیت 128 گیگابایت و رم 8 گیگابایت",
+      "images": "7bc49bdb469b3ebffebc4c12ce0de2b5",
+      "thumbnail": "7bc49bdb469b3ebffebc4c12ce0de2b5",
+      "createdAt": 1652180509111,
+      "id": 19 
+    },
+    {
+      "name": "Samsung Galaxy A13",
+      "category-id": 2 ,
+      "category": "سامسونگ",
+      "brand": "سامسونگ",
+      "price": "5000000",
+      "count": "10",
+      "description": "گوشی موبایل سامسونگ مدل Galaxy A13  دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+      "images": "68eaf61e9efedcecdd276db6cc56b2e2",
+      "thumbnail": "68eaf61e9efedcecdd276db6cc56b2e2",
+      "createdAt": 1652180509999,
+      "id": 20 
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "اپل",
+      "createdAt": 1643375019974
+    },
+    {
+      "id": 2,
+      "name": "سامسونگ",
+      "createdAt": 1643375019979
+    }
+  ],
+  "users": [
+    {
+      "name": "Zahra Abaszadeh",
+      "username": "admin",
+      "password": "admin",
+      "role": "admin"
+    }
+  ],
+  "orders": [
+    {
+      "customerDetail": {
+        "username": "admin",
+        "firstName": "زهرا",
+        "lastName": "عباس زاده",
+        "phone": "09111111111",
+        "billingAddress": "Tehran",
+        "shippingAddress": "Tehran"
+      },
+      "id": 2,
+      "location": "21111,2000,3333",
+      "orderNumber": "2122",
+      "orderDate": 1643396897495,
+      "purchaseTotal": "220000",
+      "orderStatus": 1,
+      "delivery": 1643396897495,
+      "deliveredAt": 1646222643757,
+      "orderItems": [
+        {
+          "name": "Test product",
+          "thumbnail": "",
+          "price": "",
+          "quantity": ""
+        }
+      ]
+    }
+  ],
+  "orderStatus": [
+    {
+      "id": 1,
+      "status": "Completed"
+    },
+    {
+      "id": 2,
+      "status": "Canceled"
+    },
+    {
+      "id": 3,
+      "status": "Processing"
+    },
+    {
+      "id": 4,
+      "status": "Delivered"
+    }
+  ],
+  "whoami": {
+    "name": "Zahra Abaszadeh",
+    "username": "admin",
+    "password": "admin",
+    "role": "admin"
+  },
+  "protection": {
+    "products.get": false,
+    "products": "admin",
+    "products.post": false,
+    "products.put": false,
+    "products.delete": false,
+    "orders.post": false,
+    "upload": false,
+    "orders": "admin",
+    "orders.put": false,
+    "users": "admin",
+    "protection": "admin"
+  }
+}
